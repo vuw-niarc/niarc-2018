@@ -1708,6 +1708,7 @@ AddOutputFilter chunkFilter
 			<Item Name="MPU6050 Private class data.vi" Type="VI" URL="../../niarc-2017-team-a/niarc-2017-team-a-old/vi/Gyro/MyRIO/Variables/MPU6050 Private class data.vi"/>
 			<Item Name="MPU6050 Read Data.vi" Type="VI" URL="../../niarc-2017-team-a/niarc-2017-team-a-old/vi/Gyro/MyRIO/VI/Private/MPU6050 Read Data.vi"/>
 			<Item Name="MPU6050 Read Rotation Data.vi" Type="VI" URL="../../niarc-2017-team-a/niarc-2017-team-a-old/vi/Gyro/MyRIO/VI/Private/MPU6050 Read Rotation Data.vi"/>
+			<Item Name="MPU6050 Read Z Rotation.vi" Type="VI" URL="../../niarc-2017-team-a/niarc-2017-team-a-old/vi/Gyro/MyRIO/VI/Public/MPU6050 Read Z Rotation.vi"/>
 			<Item Name="MPU6050 Write data.vi" Type="VI" URL="../../niarc-2017-team-a/niarc-2017-team-a-old/vi/Gyro/MyRIO/VI/Private/MPU6050 Write data.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>

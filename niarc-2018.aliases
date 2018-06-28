@@ -1,5 +1,5 @@
 [My Computer]
-My Computer = "172.16.0.10"
+My Computer = "127.0.0.1"
 
 [MY-RIO-2017]
 MY-RIO-2017 = "172.16.0.1"
