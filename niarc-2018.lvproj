@@ -94,6 +94,7 @@ AddOutputFilter chunkFilter
 		<Item Name="App" Type="Folder" URL="../App">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Calculate Orientation.vi" Type="VI" URL="../../niarc-2017-team-a/niarc-2017-team-a-old/vi/Gyro/Shared/Calculate Orientation.vi"/>
 		<Item Name="Chassis" Type="myRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>
