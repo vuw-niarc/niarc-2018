@@ -1715,7 +1715,6 @@ AddOutputFilter chunkFilter
 			<Item Name="Calculate motor slope.vi" Type="VI" URL="../../niarc-2017-team-a/niarc-2017-team-a-old/vi/Globals/Calculate motor slope.vi"/>
 			<Item Name="Close I2C.vi" Type="VI" URL="../../i2c/MyRIO/Close I2C.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="MPU6050 Private class data.vi" Type="VI" URL="../../niarc-2017-team-a/niarc-2017-team-a-old/vi/Gyro/MyRIO/Variables/MPU6050 Private class data.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
