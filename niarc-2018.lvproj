@@ -125,6 +125,7 @@ AddOutputFilter chunkFilter
 		<Item Name="App" Type="Folder" URL="../App">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Calculate motor slope.vi" Type="VI" URL="../../old/niarc-2017-team-a/niarc-2017-team-a-old/vi/Globals/Calculate motor slope.vi"/>
 		<Item Name="Chassis" Type="myRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>
@@ -1761,7 +1762,6 @@ AddOutputFilter chunkFilter
 				<Item Name="Vision Acquisition Path Convert.vi" Type="VI" URL="/&lt;vilib&gt;/vision/driver/Vision Acquisition Express Utility VIs.llb/Vision Acquisition Path Convert.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Calculate motor slope.vi" Type="VI" URL="../../niarc-2017-team-a/niarc-2017-team-a-old/vi/Globals/Calculate motor slope.vi"/>
 			<Item Name="Close I2C.vi" Type="VI" URL="../../i2c/MyRIO/Close I2C.vi"/>
 			<Item Name="Cross Rough Terrain.vi" Type="VI" URL="../../state-manager/State Switchers/Cross Rough Terrain.vi"/>
 			<Item Name="Event.ctl" Type="VI" URL="../../state-manager/Event.ctl"/>
