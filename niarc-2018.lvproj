@@ -125,6 +125,7 @@ AddOutputFilter chunkFilter
 		<Item Name="App" Type="Folder" URL="../App">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Avoid Obstacles.vi" Type="VI" URL="../../state-manager/State Switchers/Avoid Obstacles.vi"/>
 		<Item Name="Calculate motor slope.vi" Type="VI" URL="../../old/niarc-2017-team-a/niarc-2017-team-a-old/vi/Globals/Calculate motor slope.vi"/>
 		<Item Name="Chassis" Type="myRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
