@@ -1768,7 +1768,6 @@ AddOutputFilter chunkFilter
 			<Item Name="Close I2C.vi" Type="VI" URL="../../i2c/MyRIO/Close I2C.vi"/>
 			<Item Name="Cross Rough Terrain.vi" Type="VI" URL="../../state-manager/State Switchers/Cross Rough Terrain.vi"/>
 			<Item Name="Event.ctl" Type="VI" URL="../../state-manager/Event.ctl"/>
-			<Item Name="FindPath.vi" Type="VI" URL="../App/Plan/FindPath.vi"/>
 			<Item Name="Follow Wall.vi" Type="VI" URL="../../state-manager/State Switchers/Follow Wall.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Modified FPGA v2.lvbitx" Type="Document" URL="../../old/niarc-2017-team-a/niarc-2017-team-a-old/Modified FPGA v2.lvbitx"/>
@@ -1784,7 +1783,6 @@ AddOutputFilter chunkFilter
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Pose.vi" Type="VI" URL="../App/Plan/Globals/Pose.vi"/>
 			<Item Name="Ramp.vi" Type="VI" URL="../../state-manager/State Switchers/Ramp.vi"/>
 			<Item Name="Recenter.vi" Type="VI" URL="../../state-manager/State Switchers/Recenter.vi"/>
 			<Item Name="Stagger Stop.vi" Type="VI" URL="../../state-manager/State Switchers/Stagger Stop.vi"/>
